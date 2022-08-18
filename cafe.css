@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/5b/3b/60/5b3b6079b1219c5a7e2fcc435c7bcaf9.jpg");
+    background-size: cover;
+    font-family: Oxygen, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, BlinkMacSystemFont, 'Segoe UI', Roboto,  Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+ 
+}
+
+.container{
+    background: peachpuff;
+    max-width: 90%;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: black;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: darkgoldenrod;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+
+}
+
+#increment-btn {
+    background: burlywood;
+}
+
+#save-btn {
+    background: moccasin;
+}
+
